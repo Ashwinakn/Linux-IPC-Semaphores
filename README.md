@@ -21,9 +21,9 @@ Execute the C Program for the desired output.
 # PROGRAM:
 # Developed by
 
-Name : MOHAMMED SAAJID S
+Name : ASHWINA K N
 
-Reg No : 212223240093
+Reg No : 212223230025
 
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
